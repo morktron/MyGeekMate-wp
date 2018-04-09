@@ -1,0 +1,40 @@
+/*---------------------------------------------------------------------------------
+
+ Theme Name:   My Geek Mate
+ Theme URI:    https://www.mygeekmate.com.au
+ Description:  Child theme based on Divi for My Geek Mate
+ Author:       Mark Law
+ Author URI:   https://www.digiflip.com.au
+ Template:     Divi
+ Version:      1.0.5
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+------------------------------ ADDITIONAL CSS HERE ------------------------------*/
+
+.et_pb_promo.call-now-cta {
+    padding: 20px;
+}
+
+.call-now-cta a {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+div#text-3 h3 {
+    transform: rotate(-3deg);
+    line-height: 1.2em;
+    color: #f5dcc2;
+    text-align: center;
+    padding: 30px;
+	font-size: 30px;
+}
+
+div#text-3 h3 span {
+    font-size: 20px;
+	transform: rotate(3deg);
+    display: inline-block;
+}
+
