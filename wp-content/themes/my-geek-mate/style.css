@@ -6,7 +6,7 @@
  Author:       Mark Law
  Author URI:   https://www.digiflip.com.au
  Template:     Divi
- Version:      1.0.6
+ Version:      1.0.9
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,3 +38,23 @@ div#text-3 h3 span {
     display: inline-block;
 }
 
+.archive h2 a {
+    color: #b25537;
+}
+
+.archive h1 {
+    margin-bottom: 60px;
+}
+
+.et_audio_content, .et_link_content, .et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content {
+    background-color: #dc8427;
+}
+
+.et_overlay:before, .et_pb_bg_layout_light .et_pb_more_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light.et_pb_module.et_pb_button, .et_pb_contact_submit, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .et_pb_member_social_links a:hover, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_pb_sum {
+    color: #dc8427;
+}
+
+.promo-box a:hover {
+    color: #ffffffad;
+    text-decoration: none;
+}
